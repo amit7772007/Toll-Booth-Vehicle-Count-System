@@ -27,7 +27,4 @@ real-world systems.
 - Bus
 - Truck
 - Bike
-
-## 📊 Flowchart
-The flowchart for this project is provided as a separate PDF file:  
-**Flowchart_Toll_Booth_Vehicle_Count_System.pdf**
+  
